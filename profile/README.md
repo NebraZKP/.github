@@ -1,6 +1,6 @@
 ## Nebra ZKP
 Nebra ZKP scales and composes ZKP on blockchains, starting from Ethereum. 
-- Webite: www.nebra.one
+- Website: www.nebra.one
 
 <!--
 
