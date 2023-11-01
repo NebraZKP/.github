@@ -1,5 +1,5 @@
-## Nebra ZKP
-Nebra ZKP scales and composes ZKP on blockchains, starting from Ethereum. 
+## NEBRA Labs
+NEBRA Labs aim to bring "proof singularity" to blockchains, starting from Ethereum.
 - Website: www.nebra.one
 
 <!--
