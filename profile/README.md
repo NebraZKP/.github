@@ -4,6 +4,7 @@ NEBRA Labs aim to bring "proof singularity" to blockchains, starting from Ethere
 **NEBRA UPA** is the first *Universal* proof aggregation protocol that can lower the ZKP verification cost onchain by 10x and more using recursive zkSNARK. 
 - NEBRA scan proof explorer: https://www.nebrascan.io/
 - UPA Docs: https://docs.nebra.one/developer-guide
+- UPA Gas Calculator: https://gas.nebra.one/
 - UPA Code: TBA (soon)
 
 <!--
