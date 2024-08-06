@@ -5,7 +5,7 @@ NEBRA Labs aim to bring "proof singularity" to blockchains, starting from Ethere
 - NEBRA scan proof explorer: https://www.nebrascan.io/
 - UPA Docs: https://docs.nebra.one/developer-guide
 - UPA Gas Calculator: https://gas.nebra.one/
-- UPA Code: TBA (soon)
+- UPA Code: https://github.com/NebraZKP/upa
 
 <!--
 
